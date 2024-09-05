@@ -1,0 +1,21 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+h2 {
+  color: rgb(0, 255, 255);
+  background-color: #09831344;
+}
+.ba {
+  background-color: #00331a46;
+}
+.bon {
+  text-align: center;
+}
+img {
+  right: 20px;
+  position: absolute;
+  top: 2.12cm;
+}
